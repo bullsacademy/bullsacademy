@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bullsacademy [Kevin Mano]
+- 👋 Hi, I’m @bullsacademy [Victor Mano]
 - 👀 I’m interested in ... Learning and teaching Coding.
 - 🌱 I’m currently learning ... Php and mySql
 - 💞️ I’m looking to collaborate on open source projects.
